@@ -1,5 +1,5 @@
 # Simple-Chat-Server
-*Here is a video showing what it looks like on localhost and the details in the code (Since I don't have the money to run and maintain this on a public cloud server) : TBC
+*Here is a video showing what it looks like on localhost and the details in the code (Since I don't have the money to run and maintain this on a public cloud server) : https://youtu.be/DkJ41h9nugc 
 
 - A Simple Chat Room that can run on your local computer developed using Next.js and Socket.io.
 - Anonymous users, chat messages display across all screens.
